@@ -1,0 +1,28 @@
+.foodBox{
+    width: 200px;
+    align-items: center;
+    margin: 50px;
+    /* border: 1px solid black; */
+    text-align: center;
+
+}
+.foodImage{
+    
+    height: 220px;
+    margin: auto;
+    align-items: center;
+}
+.foodImage img{
+    width: 100%;
+    height: 100%;
+}
+.heart{
+
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.liked{
+    color: red;
+}
+
